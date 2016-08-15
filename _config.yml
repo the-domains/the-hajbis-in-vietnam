@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3292159
+color:
+  saturation: 0.2150898
+  lightness: 0.5071222
+  brandStrength: 1
+  brandColors:
+    - '#D1BEB8'
+    - '#493638'
+    - '#FFFFFE'
+    - '#8A1419'
+    - '#FF5E60'
+  rhythmicContrast: 0.7246075
+name: 'The Hajbis in Vietnam '
